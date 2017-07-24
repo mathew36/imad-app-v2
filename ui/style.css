@@ -17,7 +17,7 @@ body {
 }
 
 .img-medium {
-  height: 200px;
+  height: auto;
   }
 .img-original {
   height:auto;
@@ -41,6 +41,6 @@ body {
 }
 .center-right{
 float: right;
-    margin: 0 0 10px 10px;
+    margin: 50 0 10px 10px;
 }
 }
