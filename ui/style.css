@@ -7,7 +7,7 @@ body {
 
 .text-big {
     font-size: 200%;
-    width:30%;
+    width:20%;
     text-align: center;
   }
   .left{
@@ -16,7 +16,7 @@ body {
 
   }
   .center-right{
-    width: 50%;
+    width: 20%;
     float: right;
     text-align: center;
     vertical-align: middle;
@@ -31,6 +31,7 @@ body {
 }
 
 .img-medium {
+  margin-top: 150px;
   height:300%
   width:50%;
   float: right;
@@ -49,12 +50,14 @@ body {
   margin-left: 20px;
   vertical-align: bottom;
   word-wrap: normal;
+  width: 20%;
 }
 .right_text-medium{
   font-size: 100%;
   margin-top:20px;
   float: right;
   word-wrap: normal;
+  width:20%;
 }
 .right_text-big{
   text-align: right;
