@@ -18,7 +18,8 @@ body {
 
 .img-medium {
     height: 200px;
-    .img-profile{
+  }
+  .img-profile{
       height: auto;
       width:auto;
     }
