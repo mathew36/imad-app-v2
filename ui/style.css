@@ -25,7 +25,8 @@ body {
 }
 }
 .left{
-  text-align: left;
+  float: left;
+      margin: 0 0 10px 10px;
 }
 .text-medium{
   font-size: 100%
