@@ -45,9 +45,9 @@ body {
 
 .text-medium{
   font-size: 150%;
-  margin-top:50px;
+  margin-top:150px;
   text-align: left;
-  margin-left: 20px;
+  margin-left: 50px;
   vertical-align: bottom;
   word-wrap: normal;
   width: 20%;
@@ -65,9 +65,16 @@ body {
   font-size: 200%;
   width:20%;
   word-wrap: normal;
-  margin-left: 200px;
+  margin-left: 300px;
 
 }
-
+.center_text-big{
+  vertical-align: bottom;
+  text-align: center;
+  font-size: 200%;
+  width:20%;
+  margin-left: 200px;
+  font-style: italic;
+}
 
 }
