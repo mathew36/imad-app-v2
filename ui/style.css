@@ -26,12 +26,14 @@ body {
 }
 .left{
   margin-top: 20px;
-  vertical-align: center;
+  vertical-align: center-left;
   float: left;
       margin: 0 0 10px 10px;
 }
+
 .text-medium{
   font-size: 100%
+  margin-top:20px;
 }
 .right{
   text-align: right;
