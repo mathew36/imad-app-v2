@@ -20,8 +20,8 @@ body {
   height: 200px;
   }
 .img-original {
-  height:400px;
-  width: 400px;
+  height:200px;
+  width: 200px;
 }
 }
 .left{
@@ -34,5 +34,5 @@ body {
   text-align: right;
 }
 .center-right{
-  image-orientation: center-right;
+  image-orientation:center-right;
 }
