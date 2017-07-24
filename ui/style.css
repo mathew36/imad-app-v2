@@ -17,11 +17,12 @@ body {
 }
 
 .img-medium {
-  height: auto;
+  height:250px
+  width:200px ;
   }
 .img-original {
-  height:auto;
-  width: auto;
+  height:250px;
+  width: 200px;
 }
 }
 .left{
@@ -41,6 +42,6 @@ body {
 }
 .center-right{
 float: right;
-    margin: 50 0 10px 10px;
+    margin: 50 50 10px 10px;
 }
 }
