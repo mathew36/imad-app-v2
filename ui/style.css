@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family:fantasy;
     background-color: rgb(255, 155, 155);
     margin-top: 150px;
 }
@@ -65,7 +65,7 @@ body {
   font-size: 200%;
   width:20%;
   word-wrap: normal;
-  margin-left: 300px;
+  margin-left: 400px;
 
 }
 .center_text-big{
