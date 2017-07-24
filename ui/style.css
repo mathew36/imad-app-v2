@@ -63,7 +63,7 @@ text-align: right;
 }
 .right_text-big{
   text-align: right;
-  vertical-align: bottom;
+  vertical-align: top;
   font-size: 200%;
   width:20%;
   word-wrap: normal;
