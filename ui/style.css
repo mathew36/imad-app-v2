@@ -17,12 +17,12 @@ body {
 }
 
 .img-medium {
-  height:250px
-  width:200px ;
+  height:100%
+  width:50%;
   }
 .img-original {
-  height:250px;
-  width: 200px;
+  height:70%;
+  width: 50%;
 }
 }
 .left{
