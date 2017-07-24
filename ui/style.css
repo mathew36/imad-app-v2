@@ -18,6 +18,8 @@ body {
   .center-right{
     width: 50%;
     float: right;
+    text-align: center;
+    vertical-align: middle;
   }
 
 .bold {
@@ -41,13 +43,18 @@ body {
 .text-medium{
   font-size: 100%;
   margin-top:20px;
-  float: left;
+  text-align: left;
+  margin-left: 20px;
   vertical-align: bottom;
 }
 .right_text-medium{
   font-size: 100%;
   margin-top:20px;
   float: right;
+}
+.right_text-big{
+  text-align: right;
+  vertical-align: bottom;
 }
 
 
