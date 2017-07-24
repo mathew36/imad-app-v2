@@ -31,7 +31,7 @@ body {
 }
 
 .img-medium {
-  margin-top: 270px;
+  margin-top: 470px;
   height:300%
   width:50%;
   float: right;
@@ -65,7 +65,7 @@ body {
   font-size: 200%;
   width:20%;
   word-wrap: normal;
-  margin-left: 600px;
+  margin-left: 700px;
 
 }
 .center_text-big{
@@ -73,7 +73,7 @@ body {
   text-align: center;
   font-size: 200%;
   width:20%;
-  margin-left: 300px;
+  margin-left: 500px;
   font-style: italic;
 }
 
