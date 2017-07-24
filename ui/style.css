@@ -43,9 +43,10 @@ body {
 .text-medium{
   font-size: 100%;
   margin-top:20px;
-  text-align: left;
+  text-align: center;
   margin-left: 20px;
   vertical-align: bottom;
+  width:25%;
 }
 .right_text-medium{
   font-size: 100%;
