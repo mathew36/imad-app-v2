@@ -19,4 +19,6 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.left{
+  text-align: left+50;
+}
