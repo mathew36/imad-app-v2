@@ -17,11 +17,12 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+    height: 432px;
+    width:499px;
   }
   .img-profile{
       height: 350px;
-    
+
     }
 }
 .left{
