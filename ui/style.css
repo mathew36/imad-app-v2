@@ -34,5 +34,7 @@ body {
   text-align: right;
 }
 .center-right{
-  image-orientation:center-right;
+float: right;
+    margin: 0 0 10px 10px;
+}
 }
