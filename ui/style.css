@@ -19,7 +19,10 @@ body {
 .img-medium {
   height: 200px;
   }
-
+.img-original {
+  height:inherit;
+  width: inherit;
+}
 }
 .left{
   text-align: left;
