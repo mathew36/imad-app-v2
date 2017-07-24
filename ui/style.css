@@ -25,6 +25,8 @@ body {
 }
 }
 .left{
+  margin-top: 20px;
+  vertical-align: center;
   float: left;
       margin: 0 0 10px 10px;
 }
