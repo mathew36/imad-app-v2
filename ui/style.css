@@ -9,8 +9,16 @@ body {
     font-size: 200%;
     width:30%;
     text-align: center;
+  }
+  .left{
+    text-align: left;
+    vertical-align: bottom;
 
-}
+  }
+  .center-right{
+    width: 50%;
+    float: right;
+  }
 
 .bold {
     font-weight: bold;
