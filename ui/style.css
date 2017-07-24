@@ -20,12 +20,14 @@ body {
     float: right;
     text-align: center;
     vertical-align: middle;
+    word-wrap: normal;
   }
 
 .bold {
     font-weight: bold;
     width:30%
     text-align:center;
+    word-wrap: normal;
 }
 
 .img-medium {
@@ -46,19 +48,21 @@ body {
   text-align: left;
   margin-left: 20px;
   vertical-align: bottom;
-  width:25%;
+  word-wrap: normal;
 }
 .right_text-medium{
   font-size: 100%;
   margin-top:20px;
   float: right;
-  width:30%;
+  word-wrap: normal;
 }
 .right_text-big{
   text-align: right;
   vertical-align: bottom;
   font-size: 200%;
   width:30%;
+  word-wrap: normal;
+
 }
 
 
