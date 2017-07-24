@@ -24,12 +24,12 @@ body {
 
 .bold {
     font-weight: bold;
-    width:100%
+    width:30%
     text-align:center;
 }
 
 .img-medium {
-  height:250%
+  height:300%
   width:50%;
   float: right;
   }
@@ -41,9 +41,9 @@ body {
 
 
 .text-medium{
-  font-size: 100%;
-  margin-top:20px;
-  text-align: center;
+  font-size: 150%;
+  margin-top:50px;
+  text-align: left;
   margin-left: 20px;
   vertical-align: bottom;
   width:25%;
@@ -52,10 +52,13 @@ body {
   font-size: 100%;
   margin-top:20px;
   float: right;
+  width:30%;
 }
 .right_text-big{
   text-align: right;
   vertical-align: bottom;
+  font-size: 200%;
+  width:30%;
 }
 
 
